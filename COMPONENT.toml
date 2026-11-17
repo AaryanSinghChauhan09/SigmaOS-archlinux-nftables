@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-nftables"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-nftables component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
